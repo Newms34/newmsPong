@@ -1,0 +1,15 @@
+{
+  "name": "newmsPong",
+  "version": "0.1.0",
+  "description": "A game of pong on the console",
+  "main": "pong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Newman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "keypress": "^0.2.1"
+  }
+}
